@@ -1,18 +1,18 @@
 ## version $VER: sfsdefrag.catalog 1.0 (08.01.2021)
-## language espaÃ±ol
+## language español
 ## codeset 0
 ;
 ;
 MSG_DESCRIPTION
-DefragmentaiÃ³n SFS 
+Defragmentaión SFS 
 ; SFS Defragmenter
 ;
 MSG_BITMAP
-Bitmap del perifÃ©rico
+Bitmap del periférico
 ; Device bitmap
 ;
 MSG_SELECTION
-Seleccion del perifÃ©rico
+Seleccion del periférico
 ; Device selection
 ;
 MSG_REFRESH
